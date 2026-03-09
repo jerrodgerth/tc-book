@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore node_modules if we add a build system later
+node_modules/
+
+# Ignore logs
+*.log
